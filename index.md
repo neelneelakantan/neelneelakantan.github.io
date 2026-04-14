@@ -63,6 +63,6 @@ Just durable engineering clarity.
 ---
 
 ### Connect
-- [LinkedIn] (https://www.linkedin.com/in/neelakantanneel)
-- [Medium] (https://neel-neelakantan.medium.com/)
-- [GitHub] (https://github.com/neelneelakantan)
+- [LinkedIn](https://www.linkedin.com/in/neelakantanneel)
+- [Medium](https://neel-neelakantan.medium.com/)
+- [GitHub](https://github.com/neelneelakantan)
